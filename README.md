@@ -20,11 +20,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto em questão envolve o desenvolvimento de uma placa equipada com um sensor piezoelétrico capaz de converter vibrações mecânicas em energia elétrica. Nossa ideia tem um potencial significativo para a geração de energia em ambientes onde as vibrações são frequentes, como estradas movimentadas, lugares movimentados na cidade e entre outros. O sensor piezoelétrico incorporado na placa é capaz de transformar as oscilações mecânicas em corrente elétrica, proporcionando uma fonte de energia sustentável e eficiente. Além de sua aplicação em geração de energia, essa tecnologia também poderia ser integrada em sistemas de monitoramento estrutural, oferecendo uma abordagem inovadora para a coleta de dados em tempo real. Esse projeto representa não apenas uma solução viável para a produção de energia limpa, mas também destaca o potencial para a criação de dispositivos autossustentáveis e ecologicamente conscientes.
 <br><br>
 
 ## 🛠 Estrutura de pastas
