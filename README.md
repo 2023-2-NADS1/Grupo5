@@ -8,8 +8,7 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fernando José dos Santos</a>, <a href="(https://www.linkedin.com/in/vin%C3%ADcius-brand%C3%A3o-3846141bb/)">Vinícius Brandão </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kauã 
- Silva Rocha</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fernando José dos Santos</a>, <a href="(https://www.linkedin.com/in/vin%C3%ADcius-brand%C3%A3o-3846141bb/)">Vinícius Brandão </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kauã Silva Rocha</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
