@@ -117,7 +117,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
+1. <https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-piezoeletrico-sensor-de-vibracao-e-toque>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
 4. <https://freesound.org/>
