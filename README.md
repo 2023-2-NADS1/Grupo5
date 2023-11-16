@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fernando José dos Santos</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-brand%C3%A3o-3846141bb/">Vinícius Brandão </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kauã Silva Rocha</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
 
 ## Descrição
 
