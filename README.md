@@ -13,7 +13,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
 
 ## Descrição
-<p align="center"><img src="https://cdn.discordapp.com/attachments/854183150773993523/1175062261375701063/Imagem_projeto.jpg?ex=6569dd02&is=65576802&hm=8c291e2c48ba075b69382a5970ed39f90cf21d58f26dfbe03bb80ca8f2fff1bc&></a>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/854183150773993523/1175062261375701063/Imagem_projeto.jpg?ex=6569dd02&is=65576802&hm=8c291e2c48ba075b69382a5970ed39f90cf21d58f26dfbe03bb80ca8f2fff1bc&"></a>
 <p align="center">
 
 O projeto em questão envolve o desenvolvimento de uma placa equipada com um sensor piezoelétrico capaz de converter vibrações mecânicas em energia elétrica. Nossa ideia tem um potencial significativo para a geração de energia em ambientes onde as vibrações são frequentes, como estradas movimentadas, lugares movimentados na cidade e entre outros. O sensor piezoelétrico incorporado na placa é capaz de transformar as oscilações mecânicas em corrente elétrica, proporcionando uma fonte de energia sustentável e eficiente. Além de sua aplicação em geração de energia, essa tecnologia também poderia ser integrada em sistemas de monitoramento estrutural, oferecendo uma abordagem inovadora para a coleta de dados em tempo real. Esse projeto representa não apenas uma solução viável para a produção de energia limpa, mas também destaca o potencial para a criação de dispositivos autossustentáveis e ecologicamente conscientes.
