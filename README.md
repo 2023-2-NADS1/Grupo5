@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Created by <a Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha </a> <a href="Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under CC BY 4.0 ">Pix4free</a>
+  Created by <a Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha </a> <a href="Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under CC BY 4.0 ">Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under CC BY 4.0 </a>
 </p>
 
 
