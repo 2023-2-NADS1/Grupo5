@@ -15,9 +15,6 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Created by <a Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha </a> <a href="Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under CC BY 4.0 ">Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under CC BY 4.0 </a>
-</p>
 
 
 O projeto em questão envolve o desenvolvimento de uma placa equipada com um sensor piezoelétrico capaz de converter vibrações mecânicas em energia elétrica. Nossa ideia tem um potencial significativo para a geração de energia em ambientes onde as vibrações são frequentes, como estradas movimentadas, lugares movimentados na cidade e entre outros. O sensor piezoelétrico incorporado na placa é capaz de transformar as oscilações mecânicas em corrente elétrica, proporcionando uma fonte de energia sustentável e eficiente. Além de sua aplicação em geração de energia, essa tecnologia também poderia ser integrada em sistemas de monitoramento estrutural, oferecendo uma abordagem inovadora para a coleta de dados em tempo real. Esse projeto representa não apenas uma solução viável para a produção de energia limpa, mas também destaca o potencial para a criação de dispositivos autossustentáveis e ecologicamente conscientes.
