@@ -56,7 +56,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Trabalho em andamento
 
 ## 📋 Licença/License
-Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under Attribution 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+Piso gerador de energia © 2023 by Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha is licensed under Attribution 4.0 International 
 
 
 ## 🎓 Referências
