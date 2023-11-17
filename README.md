@@ -15,7 +15,7 @@
 ## Descrição
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/854183150773993523/1175062768697749524/Imagem_projeto.jpg?ex=6569dd7b&is=6557687b&hm=3fc126e1ddcdf178ca4ae6f10f70a7db2cdfc33c0f92c45ea03e46594dec0630&">
-  Created by Fernando José dos Santos, Kauã Silva Rocha, Matheus de Medeiros e Vinícius Brandão<a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"></a> licença
+  Created by Fernando José dos Santos, Kauã Silva Rocha, Matheus de Medeiros e Vinícius Brandão, <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"></a> Licença.
 <p align="center">
 
 O projeto em questão envolve o desenvolvimento de uma placa equipada com um sensor piezoelétrico capaz de converter vibrações mecânicas em energia elétrica. Nossa ideia tem um potencial significativo para a geração de energia em ambientes onde as vibrações são frequentes, como estradas movimentadas, lugares movimentados na cidade e entre outros. O sensor piezoelétrico incorporado na placa é capaz de transformar as oscilações mecânicas em corrente elétrica, proporcionando uma fonte de energia sustentável e eficiente. Além de sua aplicação em geração de energia, essa tecnologia também poderia ser integrada em sistemas de monitoramento estrutural, oferecendo uma abordagem inovadora para a coleta de dados em tempo real. Esse projeto representa não apenas uma solução viável para a produção de energia limpa, mas também destaca o potencial para a criação de dispositivos autossustentáveis e ecologicamente conscientes.
