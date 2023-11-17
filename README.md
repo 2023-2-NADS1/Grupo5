@@ -42,18 +42,18 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
+* 0.3.0 - 25/01/2022
+    * Termino do prototipo físico e teste do código.
+* 0.2.1 - 14/11/2023
+    * Primeiro teste do projeto
+* 0.2.0 - 31/10/2023
+    * Inicio da montagem
+* 0.1.1 - 30/10/2023
     * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.1.0 - 10/10/2023
+    * Primeiro desenvolvimento do projeto
+* 0.0.1 - 20/09/2023
+    * Inicio do projeto
 
 ## 📋 Licença/License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2023-2-NADS1/Grupo5/tree/main">Piso gerador de energia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
