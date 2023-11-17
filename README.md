@@ -29,7 +29,7 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|Apresentação Caminhando com a Energia.pdf<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
