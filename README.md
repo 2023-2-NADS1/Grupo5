@@ -25,15 +25,12 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Apresentação Caminhando com a Energia.pdf<br>
+  &emsp;|-->Apresentação Caminhando com a Energia.pdf<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
 |readme.md<br>
 
 
