@@ -54,7 +54,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 * 0.2.0 - 31/10/2023
     * Inicio da montagem
 * 0.1.1 - 30/10/2023
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
+    * Compra dos materiais
 * 0.1.0 - 10/10/2023
     * Primeiro desenvolvimento do projeto
 * 0.0.1 - 20/09/2023
