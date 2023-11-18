@@ -36,9 +36,9 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
   &emsp;  |Imagem 03.jpg <br>
    &emsp; |Imagem 04.jpg <br>
   &emsp;  |Imagem 05.jpg <br>
-   &emsp; |-->src<br>
+   |-->src<br>
   &emsp;|-->Backend<br>
-  |Código versão 0.3.0 <br>
+  &emsp;|Código versão 0.3.0 <br>
   |readme.md<br>
 
 
