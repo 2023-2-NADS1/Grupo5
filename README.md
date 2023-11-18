@@ -31,12 +31,12 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
 |-->executáveis<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
-    |Imagem 01.jpg <br>
-    |Imagem 02.jpg <br>
-    |Imagem 03.jpg <br>
-    |Imagem 04.jpg <br>
-    |Imagem 05.jpg <br>
-    |-->src<br>
+ &emsp;   |Imagem 01.jpg <br>
+  &emsp;  |Imagem 02.jpg <br>
+  &emsp;  |Imagem 03.jpg <br>
+   &emsp; |Imagem 04.jpg <br>
+  &emsp;  |Imagem 05.jpg <br>
+   &emsp; |-->src<br>
   &emsp;|-->Backend<br>
   |Código versão 0.3.0 <br>
   |readme.md<br>
