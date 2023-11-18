@@ -39,7 +39,7 @@ O projeto em questão envolve o desenvolvimento de uma placa equipada com um sen
    |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|Código versão 0.3.0 <br>
-  |readme.md<br>
+  |readme.md
 
 
 
