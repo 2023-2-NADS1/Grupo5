@@ -1,0 +1,6 @@
+void setup(){ pinMode(GPIO1, INPUT);}
+void loop(){
+Serial.begin(4095);
+Int sensor=analogRead(GPIO1);
+Delay(500);
+Serial.println(sensor);}
